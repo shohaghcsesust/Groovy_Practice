@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><report action="" BusRule="">
+  <object-tree>
+    <obj flag="Success" type="SCREW">
+      <attr name="name">VAL1010</attr>
+      <attr name="revision">00</attr>
+    </obj>
+  </object-tree>
+</report>
