@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><report action="" BusRule="">
+  <object-tree>
+    <obj flag="Success" type="SCREW">
+      <attr name="name">VAL0024316</attr>
+      <attr name="revision">--</attr>
+    </obj>
+    <obj flag="Success" type="SCREW">
+      <attr name="name">VAL0024319</attr>
+      <attr name="revision">--</attr>
+    </obj>
+    <obj flag="Success" type="SCREW">
+      <attr name="name">VAL0024317</attr>
+      <attr name="revision">--</attr>
+    </obj>
+    <obj flag="Success" type="SCREW">
+      <attr name="name">VAL0024315</attr>
+      <attr name="revision">--</attr>
+    </obj>
+  </object-tree>
+  <meta-data>
+    <data key="user-name">ahsan.kabir</data>
+    <data key="user-email">ahsan.kabir@bjitgroup.com</data>
+    <data key="ERP Company">ATN001</data>
+    <data key="rp2-time-millis">171</data>
+    <data key="date">2017-10-16</data>
+  </meta-data>
+</report>

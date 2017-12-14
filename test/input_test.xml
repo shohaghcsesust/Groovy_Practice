@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objectArray>
+	<item>
+		<item_group>VAL20</item_group>
+		<item_code>VAL0024316</item_code>
+		<item_ver>--</item_ver>
+		<item_desc1>HEX.SOC.SHOULDER SCREW</item_desc1>
+		<item_desc2>HEXAGON SOCKET SHOULDER SCREW, 3/4x1 3/4-ST</item_desc2>
+		<item_desc3>3/4x1 3/4, A574</item_desc3>
+		<item_desc4>OEM product</item_desc4>
+		<item_status>ACT</item_status>
+		<item_magnitude>PCS</item_magnitude>
+		<item_handled>Valmet PDM</item_handled>
+		<item_type>HW</item_type>
+		<item_modify>3-11-2016 18:18:45</item_modify>
+		<item_info>Item Correction Request per John Sinn ICR-11/02/2016. Mike
+			Wieber,ASTM A574, Alloy Steel.</item_info>
+		<item_desc5>ASME B18.3, 3/4x1 3/4-ST:HEXAGON SOCKET SHOULDER
+			SCREW,ASTM A574, Alloy Steel.</item_desc5>
+	</item>
+	<item>
+		<item_group>VAL20</item_group>
+		<item_code>VAL0024319</item_code>
+		<item_ver>--</item_ver>
+		<item_desc1>HEX.SOC.SHOULDER SCREW</item_desc1>
+		<item_desc2>HEXAGON SOCKET SHOULDER SCREW, 3/4x2 3/8-ST</item_desc2>
+		<item_desc3>3/4x2 3/8, A574</item_desc3>
+		<item_desc4>OEM product</item_desc4>
+		<item_status>ACT</item_status>
+		<item_magnitude>PCS</item_magnitude>
+		<item_handled>Valmet PDM</item_handled>
+		<item_type>HW</item_type>
+		<item_modify>21-5-2013 08:03:06</item_modify>
+		<item_info>ASTM A574, ALLOY STEEL.</item_info>
+		<item_desc5>ASME B18.3, 3/4x2 3/8-ST:HEXAGON SOCKET SHOULDER
+			SCREW,ASTM A574, ALLOY STEEL.</item_desc5>
+	</item>
+	<item>
+		<item_group>VAL20</item_group>
+		<item_code>VAL0024317</item_code>
+		<item_ver>--</item_ver>
+		<item_desc1>HEX.SOC.SHOULDER SCREW</item_desc1>
+		<item_desc2>HEXAGON SOCKET SHOULDER SCREW, 3/4x2 1/2-S</item_desc2>
+		<item_desc3>3/4x2 1/2, A574</item_desc3>
+		<item_desc4>OEM product</item_desc4>
+		<item_status>ACT</item_status>
+		<item_magnitude>PCS</item_magnitude>
+		<item_handled>Valmet PDM</item_handled>
+		<item_type>HW</item_type>
+		<item_modify>21-5-2013 08:02:05</item_modify>
+		<item_info>ASTM A574, Alloy steel.</item_info>
+		<item_desc5>ASME B18.3, 3/4x2 1/2-S:HEXAGON SOCKET SHOULDER SCREW,ASTM
+			A574, Alloy steel.</item_desc5>
+	</item>
+	<item>
+		<item_group>VAL20</item_group>
+		<item_code>VAL0024315</item_code>
+		<item_ver>--</item_ver>
+		<item_desc1>HEX.SOC.SHOULDER SCREW</item_desc1>
+		<item_desc2>HEXAGON SOCKET SHOULDER SCREW, 3/4x1 1/4-ST</item_desc2>
+		<item_desc3>3/4x1 1/4, A574</item_desc3>
+		<item_desc4>OEM product</item_desc4>
+		<item_status>ACT</item_status>
+		<item_magnitude>PCS</item_magnitude>
+		<item_handled>Valmet PDM</item_handled>
+		<item_type>HW</item_type>
+		<item_modify>19-1-2017 07:45:49</item_modify>
+		<item_info>ASTM A574, alloy steel.</item_info>
+		<item_desc5>ASME B18.3, 3/4x1 1/4-ST:HEXAGON SOCKET SHOULDER
+			SCREW,ASTM A574, alloy steel.</item_desc5>
+	</item>
+	<item_attribute>
+		<item_code>VAL0024316</item_code>
+		<item_version>--</item_version>
+		<attribute_code>NWEIGHT</attribute_code>
+		<tech_null></tech_null>
+		<tech_order></tech_order>
+		<tech_value>0.169</tech_value>
+	</item_attribute>
+	<item_attribute>
+		<item_code>VAL0024316</item_code>
+		<item_version>--</item_version>
+		<attribute_code>VCS</attribute_code>
+		<tech_null></tech_null>
+		<tech_order></tech_order>
+		<tech_value>CECO03</tech_value>
+	</item_attribute>
+	<item_attribute>
+		<item_code>VAL0024319</item_code>
+		<item_version>--</item_version>
+		<attribute_code>NWEIGHT</attribute_code>
+		<tech_null></tech_null>
+		<tech_order></tech_order>
+		<tech_value>0.0</tech_value>
+	</item_attribute>
+	<item_attribute>
+		<item_code>VAL0024319</item_code>
+		<item_version>--</item_version>
+		<attribute_code>VCS</attribute_code>
+		<tech_null></tech_null>
+		<tech_order></tech_order>
+		<tech_value>CECO03</tech_value>
+	</item_attribute>
+	<item_attribute>
+		<item_code>VAL0024317</item_code>
+		<item_version>--</item_version>
+		<attribute_code>NWEIGHT</attribute_code>
+		<tech_null></tech_null>
+		<tech_order></tech_order>
+		<tech_value>0.212</tech_value>
+	</item_attribute>
+	<item_attribute>
+		<item_code>VAL0024317</item_code>
+		<item_version>--</item_version>
+		<attribute_code>VCS</attribute_code>
+		<tech_null></tech_null>
+		<tech_order></tech_order>
+		<tech_value>CECO03</tech_value>
+	</item_attribute>
+	<item_attribute>
+		<item_code>VAL0024315</item_code>
+		<item_version>--</item_version>
+		<attribute_code>NWEIGHT</attribute_code>
+		<tech_null></tech_null>
+		<tech_order></tech_order>
+		<tech_value>0.0</tech_value>
+	</item_attribute>
+	<item_attribute>
+		<item_code>VAL0024315</item_code>
+		<item_version>--</item_version>
+		<attribute_code>VCS</attribute_code>
+		<tech_null></tech_null>
+		<tech_order></tech_order>
+		<tech_value>CECO03</tech_value>
+	</item_attribute>
+	<meta-data>
+		<data key="user-name">ahsan.kabir</data>
+		<data key="user-email">ahsan.kabir@bjitgroup.com</data>
+		<data key="ERP Company">ATN001</data>
+		<data key="rp2-time-millis">171</data>
+		<data key="date">2017-10-16</data>
+	</meta-data>
+</objectArray>
