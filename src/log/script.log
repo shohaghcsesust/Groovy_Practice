@@ -1,0 +1,2 @@
+[main] DEBUG log.HelloWorld - Excecute HelloWorld.
+[main] INFO log.HelloWorld - Simple sample to show log field is injected.
